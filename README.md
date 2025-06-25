@@ -2,6 +2,12 @@
 
 Here's a clean hierarchy:
 
+> 🌊 Data       
+> ❤️ Flask      
+> 🌀 Jinja2     
+> 🐬 HTML     
+> 🔁 App     
+
 ---
 
 ### 👑 **HTML is the king of structure**
